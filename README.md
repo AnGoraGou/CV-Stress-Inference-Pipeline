@@ -1,6 +1,6 @@
-# CV-Stress-Inference-Pipeline-
+# CV-Stress-Inference-Pipeline
 CV-SIP is a real-time computer vision pipeline for stress inference that fuses rPPG-derived physiological signals with facial behavioral markers. It applies classical signal processing and custom fusion logic to produce an interpretable stress index without black-box emotion models.
-# Multi-Signal Stress Detection (Computer Vision)
+## Multi-Signal Stress Detection (Computer Vision)
 
 This project implements a real-time stress detection system by fusing
 physiological and behavioral signals extracted from facial video.
